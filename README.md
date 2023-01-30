@@ -1,6 +1,6 @@
 ![logo](https://github.com/shawalbaig/shawalbaig/blob/main/1.png)
 <h1 align="center">Hi 👋, I'm Shawal Baig</h1>
-<h3 align="center">A passionate frontend and back end developer</h3>
+<h3 align="center">A passionate front-end and back-end developer</h3>
 <img align = "right" alt="coding" width ="200" src = "https://media.tenor.com/IVCnKbtTeRQAAAAM/programming-computer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shawalbaig&label=Profile%20views&color=0e75b6&style=flat" alt="shawalbaig" /> </p>

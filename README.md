@@ -1,3 +1,4 @@
+![logo](https://github.com/shawalbaig/shawalbaig/blob/main/Simple%20Technology%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Shawal Baig</h1>
 <h3 align="center">A passionate frontend and back end developer</h3>
 <img align = "right" alt="coding" width ="300" src = "https://www.graphicpear.com/wp-content/uploads/2016/11/galshir-1.gif">

@@ -1,7 +1,7 @@
 ![logo](https://github.com/shawalbaig/shawalbaig/blob/main/1.png)
 <h1 align="center">Hi 👋, I'm Shawal Baig</h1>
 <h3 align="center">A passionate frontend and back end developer</h3>
-<img align = "right" alt="coding" width ="400" src = "https://thumbs.gfycat.com/DifficultLimpingBubblefish-max-1mb.gif">
+<img align = "right" alt="coding" width ="300" src = "https://thumbs.gfycat.com/DifficultLimpingBubblefish-max-1mb.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shawalbaig&label=Profile%20views&color=0e75b6&style=flat" alt="shawalbaig" /> </p>
 

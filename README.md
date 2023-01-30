@@ -1,4 +1,4 @@
-![logo](https://github.com/shawalbaig/shawalbaig/blob/main/Simple%20Technology%20LinkedIn%20Banner.png)
+![logo](https://github.com/shawalbaig/shawalbaig/blob/main/1.png)
 <h1 align="center">Hi 👋, I'm Shawal Baig</h1>
 <h3 align="center">A passionate frontend and back end developer</h3>
 <img align = "right" alt="coding" width ="200" src = "https://media.tenor.com/IVCnKbtTeRQAAAAM/programming-computer.gif">
